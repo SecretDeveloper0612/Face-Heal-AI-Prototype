@@ -1,0 +1,7 @@
+{
+  "name": "AI Skin Health Tracker",
+  "description": "An AI-powered app that analyzes facial skin health from selfies, returning structured insights, routines, and progress tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
